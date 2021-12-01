@@ -9,15 +9,6 @@
 ![mojtabazahedi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabazahedi&theme=tokyonight&layout=compact)
 
 
-
-
-## Contact me : 
-📫 <br>
-[![Gmail Badge](https://img.shields.io/badge/-mojtaba.zahedi.amiri@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mojtaba.zahedi.amiri@gmail.com)](mojtaba.zahedi.amiri@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-mojtabazahedi1988_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/mojtabazahedi1988/)](https://www.instagram.com/mojtabazahedi1988/)
-[![Linkedin Badge](https://img.shields.io/badge/-mojtaba-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mojtaba-zahedi-amiri/)](https://www.linkedin.com/in/mojtaba-zahedi-amiri/)
-
-
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Natural%20Language%20Processing-brightgreen" /><br>
@@ -45,6 +36,15 @@
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
 <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
 <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+
+
+
+
+## Contact me : 
+📫 <br>
+[![Gmail Badge](https://img.shields.io/badge/-mojtaba.zahedi.amiri@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mojtaba.zahedi.amiri@gmail.com)](mojtaba.zahedi.amiri@gmail.com)<br>
+[![Instagram Badge](https://img.shields.io/badge/-mojtabazahedi1988_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/mojtabazahedi1988/)](https://www.instagram.com/mojtabazahedi1988/)<br>
+[![Linkedin Badge](https://img.shields.io/badge/-mojtaba-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mojtaba-zahedi-amiri/)](https://www.linkedin.com/in/mojtaba-zahedi-amiri/)
 
 
 
