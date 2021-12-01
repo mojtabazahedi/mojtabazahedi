@@ -1,44 +1,57 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hello There I am Mojtaba<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h4 align="center">🌱 I’m currently a Master student in Interactive Medias at the University of Applied Sciences Upper Austria</h4>
 
-### :smiley_cat: I am a student at SMK Telkom Malang
-
-### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+![mojtabazahedi's github stats](https://github-readme-stats.vercel.app/api?username=mojtabazahedi&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mojtabazahedi&theme=tokyonight" alt="mystreak"/><br>
+![mojtabazahedi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabazahedi&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+📫 <br>
+[![Gmail Badge](https://img.shields.io/badge/-mojtaba.zahedi.amiri@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mojtaba.zahedi.amiri@gmail.com)](mojtaba.zahedi.amiri@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-mojtabazahedi1988_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/mojtabazahedi1988/)](https://www.instagram.com/mojtabazahedi1988/)
+[![Linkedin Badge](https://img.shields.io/badge/-mojtaba-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mojtaba-zahedi-amiri/)](https://www.linkedin.com/in/mojtaba-zahedi-amiri/)
 
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Natural%20Language%20Processing-brightgreen" /><br>
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20German-yellow" /><br>
+  <img src="https://img.shields.io/badge/Lives-Austria-red" /><br>
+</p>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p align="left">
+  
+[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white&link=https://www.linkedin.com/in/animus/)]()</br>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)</br>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+<a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+
+
+
 
 ------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
 
-Last Edited on: 21/08/2021
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
