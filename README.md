@@ -2,7 +2,6 @@
 <h4 align="center">🌱 I’m currently a Master student in Interactive Medias at the University of Applied Sciences Upper Austria</h4>
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
 ![mojtabazahedi's github stats](https://github-readme-stats.vercel.app/api?username=mojtabazahedi&show_icons=true&theme=tokyonight)
