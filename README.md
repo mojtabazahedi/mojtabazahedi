@@ -43,7 +43,7 @@
 ## Contact me : 
 📫 <br>
 [![Gmail Badge](https://img.shields.io/badge/-mojtaba.zahedi.amiri@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mojtaba.zahedi.amiri@gmail.com)](mojtaba.zahedi.amiri@gmail.com)<br>
-[![Instagram Badge](https://img.shields.io/badge/-mojtabazahedi1988_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/mojtabazahedi1988/)](https://www.instagram.com/mojtabazahedi1988/)<br>
+[![Instagram Badge](https://img.shields.io/badge/-mojtabazahedi88_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/mojtabazahedi88/)](https://www.instagram.com/mojtabazahedi88/)<br>
 [![Linkedin Badge](https://img.shields.io/badge/-mojtaba-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mojtaba-zahedi-amiri/)](https://www.linkedin.com/in/mojtaba-zahedi-amiri/)
 
 
