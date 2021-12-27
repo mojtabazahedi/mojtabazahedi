@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, I am Mojtaba<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hello There, I am Mojtaba</h1>
 <h4 align="center">🌱 I’m currently a Master student in Interactive Medias at the University of Applied Sciences Upper Austria</h4>
 
 
