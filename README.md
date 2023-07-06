@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I am Mojtaba</h1>
-<h4 align="center">🌱 I’m currently a Master student in Interactive Medias at the University of Applied Sciences Upper Austria</h4>
+
 
 
 
